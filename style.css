@@ -3,11 +3,13 @@ body {
 }
 
 .perfil {
-    max-width: 100mm;
+    max-width: 90mm;
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;
     padding: 30px;
     margin: auto;
+    margin-top: 150px;
+    margin-bottom: 75px;
 }
 
 .inter-paragraph {
@@ -58,7 +60,7 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 16px;
-    padding: 24px 0;
+    padding: 0;
 }
 
 ul li a {
