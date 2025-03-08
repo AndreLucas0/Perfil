@@ -85,3 +85,9 @@ img {
     padding-bottom: 30px;
     border-radius: 50%;
 }
+
+@media (max-width: 600px) {
+    .perfil{
+        margin: auto;
+    }
+}
